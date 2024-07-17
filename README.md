@@ -81,11 +81,3 @@ Le site est conçu pour être réactif, garantissant une expérience utilisateur
 1. **Planification du Modèle de Données** : Création de la base de données avec normalisation.
 2. **Design des Interfaces** : Ébauches approuvées par l'instructeur.
 3. **Développement** : Implémentation suivant l'architecture MVC.
-
-### Temps Requis
-
-Le projet doit être complété en 60 heures de classe.
-
-### Conclusion
-
-Ce projet offre l'opportunité d'appliquer des compétences techniques tout en créant une application web fonctionnelle et agréable à utiliser.
