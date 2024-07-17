@@ -41,6 +41,7 @@ The system manages five types of objects:
 #### Entity Details
 
 1. **Member**:
+
    - Member Code (primary key)
    - Name, surname, address, phone, email, password
 
@@ -82,3 +83,10 @@ The site is designed to be responsive, ensuring an optimal user experience on al
 2. **Interface Design**: Drafts approved by the instructor.
 3. **Development**: Implementation following the MVC architecture.
 
+## Screenshots
+
+### Login Screen
+![Login Screen](project/assets/img/LoginScreen.png)
+
+### Dashboard
+![Dashboard](project/assets/img/Dashboard.png)
