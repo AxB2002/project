@@ -87,8 +87,8 @@ The site is designed to be responsive, ensuring an optimal user experience on al
 
 ### Login Screen
 
-![Login Screen](project/assets/img/login.png)
+![Login Screen](/assets/img/login.png)
 
 ### Dashboard
 
-![Dashboard](project/assets/img/dashboard.png)
+![Dashboard](/assets/img/dashboard.png)
