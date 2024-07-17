@@ -1,83 +1,84 @@
-# README
+# Integration Project #2
 
-## Projet : Bibliothèque Municipale de Port-Cartier
+## Project: Port-Cartier Municipal Library
 
 ### Introduction
 
-Ce projet vise à moderniser le site web de la bibliothèque municipale de Port-Cartier en développant une bibliothèque fictive. Cette application permettra aux employés de gérer les réservations et les dossiers clients grâce à une méthode de structure MVC, tout en utilisant des technologies modernes telles que HTML, CSS, JavaScript, PHP et MySQL.
+This project aims to modernize the website of the Port-Cartier municipal library by developing a fictional library application. This application will allow employees to manage reservations and client records using a structured MVC methodology, while utilizing modern technologies such as HTML, CSS, JavaScript, PHP, and MySQL.
 
-### Objectifs
+### Objectives
 
-- Interpréter et analyser les spécifications.
-- Concevoir une solution conforme aux demandes.
-- Développer la logique d'une application web.
-- Utiliser des langages et technologies web.
-- Gérer les interactions avec une base de données.
-- Appliquer des techniques de dépannage.
-- Valider la solution par des tests.
-- Intégrer les connaissances acquises en formation.
-- Explorer de nouvelles technologies.
-- Créer une application web tout en s'amusant.
+- Interpret and analyze the specifications.
+- Design a solution that meets the requirements.
+- Develop the logic for a web application.
+- Utilize web languages and technologies.
+- Manage interactions with a database.
+- Apply troubleshooting techniques.
+- Validate the solution through testing.
+- Integrate knowledge gained during training.
+- Explore new technologies.
+- Create a web application while having fun.
 
-### Technologies Utilisées
+### Technologies Used
 
-- **PHP** : Logique serveur.
-- **MySQL** : Gestion des bases de données.
-- **JavaScript** : Interactions dynamiques.
-- **Bootstrap** : Design réactif et esthétique.
-- **Responsive Design** : Expérience utilisateur sur tous les appareils.
-- **Architecture MVC** : Structure claire et maintenable.
+- **PHP**: Server-side logic.
+- **MySQL**: Database management.
+- **JavaScript**: Dynamic interactions.
+- **Bootstrap**: Responsive and aesthetic design.
+- **Responsive Design**: Optimal user experience across devices.
+- **MVC Architecture**: Clear and maintainable structure.
 
-### Spécifications
+### Specifications
 
-Le système gère cinq types d'objets :
+The system manages five types of objects:
 
-- **Membres**
-- **Employés**
-- **Documents** (livres, films, jeux, etc.)
-- **Prêts**
-- **Réservations**
+- **Members**
+- **Employees**
+- **Documents** (books, films, games, etc.)
+- **Loans**
+- **Reservations**
 
-#### Détails des Entités
+#### Entity Details
 
-1. **Membre** :
-   - Code du membre (clé primaire)
-   - Nom, prénom, adresse, téléphone, courriel, mot de passe
+1. **Member**:
+   - Member Code (primary key)
+   - Name, surname, address, phone, email, password
 
-2. **Document** :
-   - Code du document (clé primaire)
-   - Titre, auteur, année de publication, catégorie, type, genre, description, ISBN (si applicable)
+2. **Document**:
+   - Document Code (primary key)
+   - Title, author, year of publication, category, type, genre, description, ISBN (if applicable)
 
-### Types d'Utilisateurs
+### User Types
 
-- **Membres**
-- **Employés**
-- **Administrateurs**
+- **Members**
+- **Employees**
+- **Administrators**
 
-### Fonctionnalités
+### Features
 
-- Formulaire de connexion.
-- Recherche de documents et réservation.
-- Gestion des prêts et retours par les employés.
-- Création de membres et employés par les administrateurs.
-- Enregistrement des transactions de prêts et réservations.
+- Login form.
+- Document search and reservation.
+- Management of loans and returns by employees.
+- Creation of members and employees by administrators.
+- Recording of loan and reservation transactions.
 
-### Rapports Disponibles
+### Available Reports
 
-Les employés peuvent consulter :
+Employees can view:
 
-- Liste des membres
-- Liste des retards
-- Liste de tous les documents
-- Liste des documents réservés
-- Liste des documents prêtés
+- List of members
+- List of overdue items
+- List of all documents
+- List of reserved documents
+- List of loaned documents
 
-### Responsivité
+### Responsiveness
 
-Le site est conçu pour être réactif, garantissant une expérience utilisateur optimale sur tous les appareils grâce à Bootstrap.
+The site is designed to be responsive, ensuring an optimal user experience on all devices through the use of Bootstrap.
 
-### Étapes de Développement
+### Development Steps
 
-1. **Planification du Modèle de Données** : Création de la base de données avec normalisation.
-2. **Design des Interfaces** : Ébauches approuvées par l'instructeur.
-3. **Développement** : Implémentation suivant l'architecture MVC.
+1. **Data Model Planning**: Creation of the database with normalization.
+2. **Interface Design**: Drafts approved by the instructor.
+3. **Development**: Implementation following the MVC architecture.
+
